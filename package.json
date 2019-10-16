@@ -43,7 +43,7 @@
   "homepage": "https://github.com/davidedantonio/create-fastify-app#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "chokidar": "^3.1.1",
+    "chokidar": "^3.2.2",
     "clui": "^0.3.6",
     "codecov": "^3.6.1",
     "command-exists": "^1.2.8",
